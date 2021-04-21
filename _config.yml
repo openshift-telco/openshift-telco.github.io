@@ -1,0 +1,20 @@
+title: OpenShift for Telco
+description: Documentation on how to use and configure OpenShift for Telco use cases
+
+remote_theme: rundocs/jekyll-rtd-theme
+
+# debug:
+#   compress: true
+#   dist: false
+#   shortcodes: true
+
+readme_index:
+  with_frontmatter: true
+
+plugins:
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
+
+exclude:
+  - LICENSE
