@@ -1,3 +1,6 @@
+---
+sort: 1
+---
 # Telco Desings with OpenShift
 
 ## Designs

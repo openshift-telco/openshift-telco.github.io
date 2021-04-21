@@ -12,6 +12,7 @@ networking:
 ```
 
 - Generate installation manifests and inject custom manifest `manifest/manifest_cluster-network-03-config.yaml` with the following content
+
 ```yaml
 apiVersion: operator.openshift.io/v1
 kind: Network
