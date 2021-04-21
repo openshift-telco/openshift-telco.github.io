@@ -1,1 +1,1 @@
-# OpenShift for O-RAN-based deployments
+# O-RAN-based designs

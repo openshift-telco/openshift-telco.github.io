@@ -1,1 +1,1 @@
-# OpenShift for RAN DU
+# RAN DU

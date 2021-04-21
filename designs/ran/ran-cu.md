@@ -1,1 +1,1 @@
-# OpenShift for RAN CU
+# RAN CU
