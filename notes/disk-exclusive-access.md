@@ -1,4 +1,4 @@
-# Error "checking for exclusive access to /dev/..."
+# Fix Error "exclusive access to /dev/XXX"
 
 Linux MD partitions and LVM PVs are automatically run at startup, which interferes with `coreos.inst`
 
