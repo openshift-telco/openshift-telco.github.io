@@ -16,5 +16,9 @@ Website [https://openshift-telco.github.io](https://openshift-telco.github.io)
 
 ## About
 
-This is a collection of notes on designs, configurations and topics we have found useful when working with Telco configurations.
+This is a collection of notes on designs, configurations and topics we have found useful when working with Telco configurations. This is NOT a replacement of upstream or downstream product documentation.
+
+## Contributing to this repo
+
+Fork > Patch > Push > Pull Request
 
